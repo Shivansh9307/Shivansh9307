@@ -22,7 +22,7 @@ Power Query (M) · Tableau · Python · R · Git
 
 **Find me elsewhere**
 [LinkedIn](https://www.linkedin.com/in/chauhan-shivansh/) 
-| [Portfolio](https://shivansh-chauhan.carrd.co)
+| [Portfolio](https://shivansh9307.github.io/)
 
 <!--
 **Shivansh9307/Shivansh9307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
