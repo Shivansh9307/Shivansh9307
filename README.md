@@ -1,4 +1,4 @@
-# Shivansh Chauhan — Business & Data Analyst
+# Shivansh Chauhan — Data and BI Analyst
  
 I build data systems, and I care most about whether the numbers coming out of them can be trusted. Most of my work sits around Power BI semantic models, advanced DAX, star schema data modelling, and SQL — with a focus on getting reports into production properly rather than just making them look good.
  
