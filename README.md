@@ -1,24 +1,15 @@
-## Shivansh Chauhan — Power BI Developer
-
-I build BI solutions that help businesses make faster, 
-more confident decisions. Most of my work sits around 
-Power BI semantic models, advanced DAX, star schema 
-data modelling, and SQL — with a focus on getting 
-reports into production properly rather than just 
-making them look good.
-
-Previously at HCLTech (client: EGA Dubai) and Koru 
-Green Limited, where work included cutting SLA 
-resolution time by 50% through SQL-driven dimensional 
-modelling and reducing dashboard load times by 30% 
-through DAX optimisation.
-
-MSc Business Analytics — Aston University. 
-PL-300 in progress.
-
-**Core stack**
-Power BI · Advanced DAX · SQL · Star Schema · 
-Power Query (M) · Tableau · Python · R · Git
+# Shivansh Chauhan — Business & Data Analyst
+ 
+I build data systems, and I care most about whether the numbers coming out of them can be trusted. Most of my work sits around Power BI semantic models, advanced DAX, star schema data modelling, and SQL — with a focus on getting reports into production properly rather than just making them look good.
+ 
+Flagship project: UK Corporate Compliance Radar, a compliance-monitoring platform on real Companies House data with a calibrated director risk score and AI-assisted PDF extraction.
+ 
+Two years at HCLTech on level 2 support for EGA Dubai, building the team's SLA breach and performance reporting in Excel from exported ticket data. Tableau professionally at Koru Green Limited.
+ 
+MSc Business Analytics — Aston University.
+ 
+**Core stack** Power BI · Advanced DAX · SQL · PostgreSQL · Star Schema · Power Query (M) · Tableau · Python · Git · Docker · GenAI · RAG
+ 
 
 **Find me elsewhere**
 [LinkedIn](https://www.linkedin.com/in/chauhan-shivansh/) 
